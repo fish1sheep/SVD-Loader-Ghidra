@@ -21,7 +21,7 @@ The script can be found in the `leveldown security` folder in Ghidra's Script Ma
 
 ## Getting SVDs
 
-- [cmsis-svd contains over 650 SVDs](https://github.com/posborne/cmsis-svd/)
+- [cmsis-svd contains over 650 SVDs](https://github.com/cmsis-svd/cmsis-svd-data)
 - [Keil Software Packs](https://www.keil.com/pack)
 
 ## Credits
