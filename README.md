@@ -19,6 +19,10 @@ To add the checked-out Git repository to your Ghidra-Scripts search paths:
 
 The script can be found in the `leveldown security` folder in Ghidra's Script Manager. [More info here.](https://leveldown.de/blog/svd-loader/)
 
+## Adapted for Python 3 and new version fo Ghidra(12.0.3)
+
+The repo was refactored using the minimax-M2.5 AI model and passed a simple test.
+
 ## Getting SVDs
 
 - [cmsis-svd contains over 650 SVDs](https://github.com/cmsis-svd/cmsis-svd-data)
